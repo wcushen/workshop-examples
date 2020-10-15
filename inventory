@@ -3,3 +3,4 @@ hostname1.example.com
 
 [all:vars]
 ansible_connection: ssh
+ansible_default_ipv4: 10.10.10.11
