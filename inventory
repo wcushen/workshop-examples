@@ -1,6 +1,3 @@
 ---
-[web2:vars]
-ansible_user: user1
-
 [web2]
 hostname1.example.com 
