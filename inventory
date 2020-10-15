@@ -2,5 +2,5 @@
 hostname1.example.com ansible_connection=ssh
 
 [web2:vars]
-ansible_connection=ssh
-ansible_default_ipv4=10.10.10.11
+ansible_connection: ssh
+ansible_default_ipv4: 10.10.10.11
