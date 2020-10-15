@@ -1,5 +1,5 @@
 [all]
-hostname1.example.com
+hostname1.example.com ansible_connection=ssh
 
 [all:vars]
 ansible_connection=ssh
