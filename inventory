@@ -1,2 +1,5 @@
 [all]
 hostname1.example.com
+
+[all:vars]
+ansible_connection: ssh
