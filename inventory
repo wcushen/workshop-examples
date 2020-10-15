@@ -3,4 +3,4 @@
 ansible_user: user1
 
 [web2]
-hostname1.example.com ansible_connection=ssh
+hostname1.example.com 
