@@ -1,6 +1,6 @@
+---
+[web2:vars]
+ansible_user: user1
+
 [web2]
 hostname1.example.com ansible_connection=ssh
-
-[web2:vars]
-ansible_connection: ssh
-ansible_default_ipv4: 10.10.10.11
